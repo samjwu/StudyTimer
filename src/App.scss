@@ -1,0 +1,23 @@
+body {
+    background: black;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+.length-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+#session-label,
+#break-label {
+    font-size: 2rem;
+    padding: 2rem;
+}
