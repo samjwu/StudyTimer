@@ -2,6 +2,8 @@
 
 Counts down study sessions of length x with breaks of length y
 
+![Study Timer](studytimer.PNG)
+
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
